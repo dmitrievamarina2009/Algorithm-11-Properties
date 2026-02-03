@@ -41,6 +41,6 @@ Where:
 Most projects fail because they ignore **Property #9 (Practical Constraint)** or lack **Property #10 (Support)**. By following this sequence, you align your "Will" with the "Density of Reality."
 
 **"Business is Physics. No hallucinations."**
-
+https://github.com/gormenz-svg/algorithm-11
 ---
 *Authored by [Your Name/MDm241125]* *Krasnoyarsk, 2026*
